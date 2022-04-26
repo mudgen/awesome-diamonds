@@ -1,7 +1,3 @@
-# Awesome Diamonds
-
-
-
 <div align="center">
   <h1 align="center">Awesome Diamonds</h1>
   <p align="center">
