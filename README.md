@@ -15,7 +15,13 @@
 
 ## Resources
 
-#### Official 
+#### Official
 
 * [EIP2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535) - Standard.
 * [Diamond implementations](https://github.com/mudgen/diamond) - Links to diamond reference implementations.
+
+#### Articles
+
+[Introduction to EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard?s=w) Explains the problem diamonds were initially developed to solve, how they work, how to organize them, and how to deploy and upgrade them.
+
+
