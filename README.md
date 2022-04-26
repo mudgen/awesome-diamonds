@@ -1,4 +1,4 @@
-<div align="center">
+
   <h1 align="center">Awesome Diamonds</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -12,4 +12,4 @@
   <p align="center">A curated list of awesome EIP2535 Diamonds resources, libraries, tools and more.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
   
-</div>
+
