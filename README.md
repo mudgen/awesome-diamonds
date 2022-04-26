@@ -13,3 +13,9 @@
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
   
 
+## Resources
+
+#### Official 
+
+* [EIP2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535) - Standard.
+* [Diamond implementations](https://github.com/mudgen/diamond) - Diamond reference implementations.
