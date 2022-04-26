@@ -18,4 +18,4 @@
 #### Official 
 
 * [EIP2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535) - Standard.
-* [Diamond implementations](https://github.com/mudgen/diamond) - Diamond reference implementations.
+* [Diamond implementations](https://github.com/mudgen/diamond) - Links to diamond reference implementations.
