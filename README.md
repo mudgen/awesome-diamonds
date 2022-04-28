@@ -43,7 +43,7 @@
 * [Diamond Upgrades](https://eip2535diamonds.substack.com/p/diamond-upgrades?s=w) - How to perform diamond upgrades.
 * [Example of Adding New State Variables in Diamond Upgrade](https://eip2535diamonds.substack.com/p/example-of-a-diamond-upgrade?s=w) - Shows how to add new state variables to a diamond.
 
-### Diamonds Used in Projects
+### Diamonds in Projects
 
 * [Dark Forest & the Diamond Standard](https://blog.zkga.me/dark-forest-and-the-diamond-standard) - Dark Forest project moves to and dicusses diamonds.
 * [The Diamond Standard: A new paradigm for upgradeability](https://medium.com/derivadex/the-diamond-standard-a-new-paradigm-for-upgradeability-569121a08954) - DerivaDEX on diamonds.
