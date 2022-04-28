@@ -39,6 +39,7 @@
 
 * [Louper - The Ethereum Diamond Inspector](https://louper.dev/) - User interface for diamonds.
 * [hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact. 
+* [hardhat-deploy](https://github.com/wighawag/hardhat-deploy#builtin-in-support-for-diamonds-eip2535) - Hardhat plugin that supports deploying, upgrading and managing diamonds.
 
 ## Audits
 
