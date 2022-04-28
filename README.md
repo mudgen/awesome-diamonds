@@ -18,6 +18,9 @@
 #### Official
 
 * [EIP2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535) - Standard.
+* [EIP2535 Diamonds discussion thread](https://github.com/ethereum/EIPs/issues/2535) - Github issue created to discuss Diamonds.
+* [Twitter @eip2535](https://twitter.com/eip2535)
+* [EIP2535 Discord Server)(https://discord.gg/kQewPw2) - Discord server for discussing EIP2535 Diamonds and related things.
 * [Diamond reference implementation comparisons](https://github.com/mudgen/diamond) - Compares Diamond reference implementations.
 * [diamond-1-hardhat](https://github.com/mudgen/diamond-1-hardhat) - Simple Diamond reference implementation.
 * [diamond-2-hardhat](https://github.com/mudgen/diamond-2-hardhat) - Gas-optimized Diamond reference implementation.
@@ -35,3 +38,6 @@
 #### Tools
 
 [Louper - The Ethereum Diamond Inspector](https://louper.dev/) - User interface for diamonds.
+[hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact. 
+
+## Resources
