@@ -34,7 +34,6 @@
 
 * [How Diamond Storage Works](https://dev.to/mudgen/how-diamond-storage-works-90e) - Explains diamond storage and shows an example.
 * [New Storage Layout For Proxy Contracts and Diamonds](https://medium.com/1milliondevs/new-storage-layout-for-proxy-contracts-and-diamonds-98d01d0eadb) - First written article that describes diamond storage.
-* https://medium.com/derivadex/the-diamond-standard-a-new-paradigm-for-upgradeability-569121a08954
 
 ## Diamonds Used in Projects
 
