@@ -26,8 +26,20 @@
 
 # Articles
 
+## Diamonds
+
 * [Introduction to EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard?s=w) - Explains the problem diamonds were initially developed to solve, how they work, how to organize them, and how to deploy and upgrade them.
 
+## Diamond Storage
+
+* [How Diamond Storage Works](https://dev.to/mudgen/how-diamond-storage-works-90e) - Explains diamond storage and shows an example.
+* [New Storage Layout For Proxy Contracts and Diamonds](https://medium.com/1milliondevs/new-storage-layout-for-proxy-contracts-and-diamonds-98d01d0eadb) - First written article that describes diamond storage.
+* https://medium.com/derivadex/the-diamond-standard-a-new-paradigm-for-upgradeability-569121a08954
+
+## Diamonds Used in Projects
+
+* [Dark Forest & the Diamond Standard](https://blog.zkga.me/dark-forest-and-the-diamond-standard) - Dark Forest project moves to and dicusses diamonds.
+* [The Diamond Standard: A new paradigm for upgradeability] - DerivaDEX on diamonds.
 
 # Libraries
 
