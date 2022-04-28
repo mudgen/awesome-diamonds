@@ -38,7 +38,7 @@
 ## Diamonds Used in Projects
 
 * [Dark Forest & the Diamond Standard](https://blog.zkga.me/dark-forest-and-the-diamond-standard) - Dark Forest project moves to and dicusses diamonds.
-* [The Diamond Standard: A new paradigm for upgradeability] - DerivaDEX on diamonds.
+* [The Diamond Standard: A new paradigm for upgradeability](https://medium.com/derivadex/the-diamond-standard-a-new-paradigm-for-upgradeability-569121a08954) - DerivaDEX on diamonds.
 
 # Libraries
 
