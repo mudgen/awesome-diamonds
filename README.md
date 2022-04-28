@@ -40,7 +40,7 @@
 ### Diamond Upgrades
 
 * [Diamond Upgrades](https://eip2535diamonds.substack.com/p/diamond-upgrades?s=w) - How to perform diamond upgrades.
-* [https://eip2535diamonds.substack.com/p/example-of-a-diamond-upgrade?s=w](Example of Adding New State Variables in Diamond Upgrade) - Shows how to add new state variables to a diamond.
+* [Example of Adding New State Variables in Diamond Upgrade](https://eip2535diamonds.substack.com/p/example-of-a-diamond-upgrade?s=w) - Shows how to add new state variables to a diamond.
 
 ### Diamonds Used in Projects
 
