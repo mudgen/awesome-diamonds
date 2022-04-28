@@ -18,6 +18,7 @@
 * [EIP2535 Diamonds](https://eips.ethereum.org/EIPS/eip-2535) - Standard.
 * [EIP2535 Diamonds discussion thread](https://github.com/ethereum/EIPs/issues/2535) - Github issue created to discuss Diamonds.
 * [Twitter @eip2535](https://twitter.com/eip2535) - Twitter handle.
+* [EIP2535 Blog](https://eip2535diamonds.substack.com/) - Technical articles about diamonds.
 * [EIP2535 Discord Server](https://discord.gg/kQewPw2) - Discord server for discussing EIP2535 Diamonds and related things.
 * [Diamond reference implementation comparisons](https://github.com/mudgen/diamond) - Compares Diamond reference implementations.
 * [diamond-1-hardhat](https://github.com/mudgen/diamond-1-hardhat) - Simple Diamond reference implementation.
