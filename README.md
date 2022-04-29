@@ -68,6 +68,8 @@
 
 *  [Smart Contract Audit](https://omniscia.io/alliance-block-multitoken-bridge/) - Omniscia published a smart contract audit of the diamond implementing AllianceBlock’s token bridge, which uses the [diamond-3](https://github.com/mudgen/diamond-3-hardhat) implementation.
 
+*  [Smart Contract Audit](https://omniscia.io/seen-haus-nft-auction-sales/) - Omniscia published a smart contract audit of the [Seen.Haus Marketplace Diamond](https://github.com/seen-haus/seen-contracts), which uses the [diamond-3](https://github.com/mudgen/diamond-3-hardhat) implementation, modified for role-based access rather than single-owner.
+
 ### Certik
 
 * [Smart Contract Audit](https://www.certik.org/projects/aavegotchi) - Certik published a smart contract audit of Aavegotchi’s core diamond which use the  [diamond-3](https://github.com/mudgen/diamond-3-hardhat) implementation.
