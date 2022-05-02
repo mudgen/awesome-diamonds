@@ -92,6 +92,50 @@
 
 * [Smart Contract Audit](https://github.com/BarnBridge/BarnBridge-Barn) - Haechi Audit published a smart contract audit of BarnBridge’s Barn diamond, which uses BarnBridge’s own implementation of EIP-2535 Diamonds based on diamond-1. 
 
+# Projects using Diamonds
 
-
-
+1. DerivaDEX
+1. BarnBridge
+1. Aavegotchi
+1. PieDAO
+2. Boson Protocol
+3. hardhat-deploy
+4. Nifty Cannon
+5. AllianceBlock
+6. Louper
+7. solidstate-solidity
+8. Nayms
+9. Diamond Setter
+10. Sherlock
+11. Premia Finance
+12. Love Boat Exchange
+13. Nocturnal Finance 
+15. Quotient.fi
+16. scaffold-eth
+17. diamond-starter-kit
+18. scaffold-eth-diamond-standard
+19. Sanshu Inu
+20. Gelato Network
+21. Teller Finance
+22. seen.haus
+23. thx.network
+24. Token Gallery
+25. Cyber
+26. Beanstalk Protocol
+27. kanaloa.network
+28. PoolSharks
+29. Bitpixel
+30. neodymium-contracts
+31. INU Token
+32. Sigmadex
+33. TuffToken
+34. hardhat-diamond-abi
+35. EnterDAO
+36. Gemcutter
+37. GNUS.AI
+38. Dark Forest
+39. Moonstream DAO
+40. Chain of Empires
+41. LI.FI
+42. cryptopoopz.com
+43. Copium Wars
