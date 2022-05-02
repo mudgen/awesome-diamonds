@@ -33,7 +33,7 @@
 * [EIP-2535: A standard for organizing and upgrading a modular smart contract system.](https://soliditydeveloper.com/eip-2535) - Describes what diamonds are, how they work and how to use them.
 * [Diamond Loupe Functions](https://dev.to/mudgen/why-loupe-functions-for-diamonds-1kc3) - Explains the need and use of loupe functions (diamond introspecting functions).
 * [How to Share Functions Between Facets of a Diamond](https://eip2535diamonds.substack.com/p/how-to-share-functions-between-facets?s=w) - Shows ways to share functionality between facets of a diamond.
-* [A Beginner’s Guide to The Diamond Standard Proxy](https://blessingemah.medium.com/a-beginners-guide-to-the-diamond-standard-proxy-b57076365403)
+* [A Beginner’s Guide to The Diamond Standard Proxy](https://blessingemah.medium.com/a-beginners-guide-to-the-diamond-standard-proxy-b57076365403) - Expalins EIP-2535 Diamonds.
 
 ### Diamond Storage
 
