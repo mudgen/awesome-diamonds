@@ -48,7 +48,7 @@
 
 ### Diamonds in Projects
 
-* [Smart Contracts as Apps](https://www.reddit.com/r/ethereum/comments/uxmuf8/smart_contracts_as_apps/) - EIP-2535 Diamonds and the feasibility of a DAO Operating System
+* [Smart Contracts as Apps](https://0xhabitat.substack.com/p/smart-contracts-as-apps?s=r) - EIP-2535 Diamonds and the feasibility of a DAO Operating System
 * [Dark Forest & the Diamond Standard](https://blog.zkga.me/dark-forest-and-the-diamond-standard) - Dark Forest project moves to and dicusses diamonds.
 * [The Diamond Standard: A new paradigm for upgradeability](https://medium.com/derivadex/the-diamond-standard-a-new-paradigm-for-upgradeability-569121a08954) - DerivaDEX on diamonds.
 * [We like the (EIP-2535) Diamonds](https://blog.premia.finance/we-like-the-eip-2535-diamonds-90184b2e6741) - Premia Finance talks about their use of diamonds.
