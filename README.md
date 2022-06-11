@@ -144,3 +144,4 @@
 42. LI.FI
 43. cryptopoopz.com
 44. Copium Wars
+45. Typenauts
