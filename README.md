@@ -148,4 +148,4 @@
 46. Boson Protocol
 47. connext.network
 1. [The Saudis](https://www.thesaudisnft.com/)
-1. [https://spring.game/](Spring Game)
+1. [Spring Game](https://spring.game/)
