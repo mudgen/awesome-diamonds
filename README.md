@@ -125,7 +125,6 @@
 23. seen.haus
 24. thx.network
 25. Token Gallery
-26. Cyber
 27. Beanstalk Protocol
 28. kanaloa.network
 29. PoolSharks
@@ -149,3 +148,4 @@
 47. connext.network
 1. [The Saudis](https://www.thesaudisnft.com/)
 1. [Spring Game](https://spring.game/)
+1. [oncyber](https://oncyber.io/)
