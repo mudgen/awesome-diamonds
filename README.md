@@ -113,7 +113,6 @@
 11. Diamond Setter
 12. Sherlock
 13. Premia Finance
-14. Love Boat Exchange
 15. Nocturnal Finance 
 17. scaffold-eth
 18. diamond-starter-kit
