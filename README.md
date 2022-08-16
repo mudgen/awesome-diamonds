@@ -114,8 +114,7 @@
 12. Sherlock
 13. Premia Finance
 14. Love Boat Exchange
-15. Nocturnal Finance
-16. Quotient.fi
+15. Nocturnal Finance 
 17. scaffold-eth
 18. diamond-starter-kit
 19. scaffold-eth-diamond-standard
@@ -151,3 +150,4 @@
 1. [oncyber](https://oncyber.io/)
 1. [Avathereum](https://avathereum.com/)
 1. [Cartesi](https://cartesi.io/)
+1. [Energy Web](https://www.energyweb.org)
