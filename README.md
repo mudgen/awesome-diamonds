@@ -150,3 +150,4 @@
 1. [Avathereum](https://avathereum.com/)
 1. [Cartesi](https://cartesi.io/)
 1. [Energy Web](https://www.energyweb.org)
+1. [Shattered Eon](https://shatteredeon.io/)
