@@ -55,6 +55,14 @@
 * [Why Gotchivault is upgrading to the Diamond standard](https://medium.com/@bearded.eth/diamonds-are-a-proxys-best-friends-c302cca82203) - How to upgrade an existing proxy contract to EIP2535 Diamonds.
 * [Handling multiple tokens, with a modern solidity architecture via Diamonds & ERC1155](https://dev.to/nohehf/handling-multiple-tokens-with-a-modern-solidity-architecture-via-diamonds-erc1155-1h7e)
 
+# Videos
+
+* [Ethereum Diamonds - EIP-2535 Multi Facet Proxy](https://youtu.be/yKLDBsYPyE8)
+* [How to Organize a Diamond with Facets](https://youtu.be/qHMdqHJMXww)
+* [Create Diamond Contracts In Your Browser Using Remix And Louper](https://youtu.be/8p4NhC9sLDA)
+* [Share Functions And Storage With Diamond Contracts | Louper/Remix](https://youtu.be/6a379dRTcXU)
+
+
 # Libraries
 
 * [SolidState Solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first Solidity smart contract development library that supports diamonds.
