@@ -75,6 +75,7 @@
 * [hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 * [hardhat-deploy](https://github.com/wighawag/hardhat-deploy#builtin-in-support-for-diamonds-eip2535) - Hardhat plugin that supports deploying, upgrading and managing diamonds.
 * [Inspector Facet](https://github.com/bugout-dev/inspector-facet) - Inspection utility for EIP2535 Diamond proxies. Written in Python.
+* [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
 
 # Audits
 
@@ -160,3 +161,4 @@
 1. [Cartesi](https://cartesi.io/)
 1. [Energy Web](https://www.energyweb.org)
 1. [Shattered Eon](https://shatteredeon.io/)
+2. Zem
