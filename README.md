@@ -85,7 +85,7 @@
 * [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds) - Mimimal template for Diamonds
 * [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
 * [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
-* [Diamantair] -  Deploying new diamonds from a template.
+* [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
 
 
 # Audits
