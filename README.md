@@ -34,6 +34,10 @@
 * [Diamond Loupe Functions](https://dev.to/mudgen/why-loupe-functions-for-diamonds-1kc3) - Explains the need and use of loupe functions (diamond introspecting functions).
 * [How to Share Functions Between Facets of a Diamond](https://eip2535diamonds.substack.com/p/how-to-share-functions-between-facets?s=w) - Shows ways to share functionality between facets of a diamond.
 * [A Beginner’s Guide to The Diamond Standard Proxy](https://blessingemah.medium.com/a-beginners-guide-to-the-diamond-standard-proxy-b57076365403) - Explains EIP-2535 Diamonds.
+* [Idiots Guide to Using an EIP-2535 Diamond Proxy](https://andrewedwards.substack.com/p/coming-soon)
+* [EIP 2535: Diamond standard explained — Part 1: Why diamonds?](https://bitsbyblocks.com/eip-2535-diamond-standard-explained-part-1-why-diamonds/)
+* [EIP 2535: Diamond standard explained – Part 2: What are diamonds and how they work](https://bitsbyblocks.com/eip-2535-diamond-standard-explained-part-2-what-are-diamonds-and-how-they-work/)
+* [EIP 2535: Diamond standard explained – Part 3: Understanding storage patterns in diamonds](https://bitsbyblocks.com/eip-2535-diamond-standard-explained-part-3-understanding-storage-patterns-in-diamonds/)
 
 ### Diamond Storage
 
@@ -54,6 +58,7 @@
 * [We like the (EIP-2535) Diamonds](https://blog.premia.finance/we-like-the-eip-2535-diamonds-90184b2e6741) - Premia Finance talks about their use of diamonds.
 * [Why Gotchivault is upgrading to the Diamond standard](https://medium.com/@bearded.eth/diamonds-are-a-proxys-best-friends-c302cca82203) - How to upgrade an existing proxy contract to EIP2535 Diamonds.
 * [Handling multiple tokens, with a modern solidity architecture via Diamonds & ERC1155](https://dev.to/nohehf/handling-multiple-tokens-with-a-modern-solidity-architecture-via-diamonds-erc1155-1h7e)
+* [Smart contract packages — upgradeability for normal people](https://medium.com/@tjvs/smart-contract-packages-upgradeability-for-normal-people-8646e817e196)
 
 # Videos
 
@@ -76,6 +81,9 @@
 * [hardhat-deploy](https://github.com/wighawag/hardhat-deploy#builtin-in-support-for-diamonds-eip2535) - Hardhat plugin that supports deploying, upgrading and managing diamonds.
 * [Inspector Facet](https://github.com/bugout-dev/inspector-facet) - Inspection utility for EIP2535 Diamond proxies. Written in Python.
 * [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
+* [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds) - Mimimal template for Diamonds
+* [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
+
 
 # Audits
 
