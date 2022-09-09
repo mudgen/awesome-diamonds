@@ -173,5 +173,5 @@
 52. [Energy Web](https://www.energyweb.org)
 53. [Shattered Eon](https://shatteredeon.io/)
 54. Zem
-55. [SolarProtocol] (https://www.solarprotocol.io/)
-56. [VOID.MONEY] (https://void.money/)
+55. [SolarProtocol](https://www.solarprotocol.io/)
+56. [VOID.MONEY](https://void.money/)
