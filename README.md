@@ -120,21 +120,21 @@
 # Projects using Diamonds
 
 1. DerivaDEX
-1. BarnBridge
-1. Aavegotchi
-2. [ERC721A-Upgradeable](https://github.com/chiru-labs/ERC721A-Upgradeable)
-3. PieDAO
-4. Boson Protocol
-5. hardhat-deploy
-6. Nifty Cannon
-7. AllianceBlock
-8. Louper
-9. solidstate-solidity
-10. Nayms
-11. Diamond Setter
-12. Sherlock
-13. Premia Finance
-15. Nocturnal Finance 
+2. BarnBridge
+3. Aavegotchi
+4. [ERC721A-Upgradeable](https://github.com/chiru-labs/ERC721A-Upgradeable)
+5. PieDAO
+6. Boson Protocol
+7. hardhat-deploy
+8. Nifty Cannon
+9. AllianceBlock
+10. Louper
+11. solidstate-solidity
+12. Nayms
+13. Diamond Setter
+14. Sherlock
+15. Premia Finance
+16. Nocturnal Finance 
 17. scaffold-eth
 18. diamond-starter-kit
 19. scaffold-eth-diamond-standard
@@ -144,32 +144,34 @@
 23. seen.haus
 24. thx.network
 25. Token Gallery
-27. Beanstalk Protocol
-28. kanaloa.network
-29. PoolSharks
-30. Bitpixel
-31. neodymium-contracts
-32. INU Token
-33. Sigmadex
-34. TuffToken
-35. hardhat-diamond-abi
-36. EnterDAO
-37. Gemcutter
-38. GNUS.AI
-39. Dark Forest
-40. Moonstream DAO
-41. Chain of Empires
-42. LI.FI
-43. cryptopoopz.com
-44. Copium Wars
-45. Typenauts
-46. Boson Protocol
-47. connext.network
-1. [The Saudis](https://www.thesaudisnft.com/)
-1. [Spring Game](https://spring.game/)
-1. [oncyber](https://oncyber.io/)
-1. [Avathereum](https://avathereum.com/)
-1. [Cartesi](https://cartesi.io/)
-1. [Energy Web](https://www.energyweb.org)
-1. [Shattered Eon](https://shatteredeon.io/)
-2. Zem
+26. Beanstalk Protocol
+27. kanaloa.network
+28. PoolSharks
+29. Bitpixel
+30. neodymium-contracts
+31. INU Token
+32. Sigmadex
+33. TuffToken
+34. hardhat-diamond-abi
+35. EnterDAO
+36. Gemcutter
+37. GNUS.AI
+38. Dark Forest
+39. Moonstream DAO
+40. Chain of Empires
+41. LI.FI
+42. cryptopoopz.com
+43. Copium Wars
+44. Typenauts
+45. Boson Protocol
+46. connext.network
+47. [The Saudis](https://www.thesaudisnft.com/)
+48. [Spring Game](https://spring.game/)
+49. [oncyber](https://oncyber.io/)
+50. [Avathereum](https://avathereum.com/)
+51. [Cartesi](https://cartesi.io/)
+52. [Energy Web](https://www.energyweb.org)
+53. [Shattered Eon](https://shatteredeon.io/)
+54. Zem
+55. [SolarProtocol] (https://www.solarprotocol.io/)
+56. [VOID.MONEY] (https://void.money/)
