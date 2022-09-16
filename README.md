@@ -86,6 +86,7 @@
 * [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
 * [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
+* [diamond-diff](https://www.npmjs.com/package/diamond-diff) - Tool that helps retrieve the necessary `diamondCut` by checking against a Diamond model.
 
 
 # Audits
