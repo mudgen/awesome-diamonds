@@ -177,3 +177,4 @@
 55. [SolarProtocol](https://www.solarprotocol.io/)
 56. [VOID.MONEY](https://void.money/)
 1. [Simple DeFi](https://www.simpledefi.io/)
+1. [CroSwap](https://www.croswap.com/)
