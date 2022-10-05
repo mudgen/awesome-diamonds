@@ -179,3 +179,4 @@
 1. [Simple DeFi](https://www.simpledefi.io/)
 1. [CroSwap](https://www.croswap.com/)
 1. [RMRK](https://www.rmrk.app/)
+1. [PartyFinance](https://party.finance/)
