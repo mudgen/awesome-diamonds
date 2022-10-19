@@ -25,6 +25,10 @@
 * [diamond-2-hardhat](https://github.com/mudgen/diamond-2-hardhat) - Gas-optimized Diamond reference implementation.
 * [diamond-3-hardhat](https://github.com/mudgen/diamond-3-hardhat) - Simple loupe (introspecting functions) Diamond reference implementation.
 
+# Websites
+
+* [info.diamonds](https://www.info.diamonds/)
+
 # Articles
 
 ### Diamonds
