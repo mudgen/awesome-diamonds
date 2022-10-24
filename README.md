@@ -190,3 +190,4 @@
 1. [PartyFinance](https://party.finance/)
 1. [1o1.art](https://1o1.art/)
 1. [withmantra.com](https://withmantra.com)
+1. [Nobility Token](https://nobilitytoken.com)
