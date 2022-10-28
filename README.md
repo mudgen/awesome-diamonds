@@ -43,7 +43,7 @@
 * [EIP 2535: Diamond standard explained – Part 2: What are diamonds and how they work](https://bitsbyblocks.com/eip-2535-diamond-standard-explained-part-2-what-are-diamonds-and-how-they-work/)
 * [EIP 2535: Diamond standard explained – Part 3: Understanding storage patterns in diamonds](https://bitsbyblocks.com/eip-2535-diamond-standard-explained-part-3-understanding-storage-patterns-in-diamonds/)
 * [The Diamond Standard (EIP-2535) Explained: Part 1](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-1)
-* [ The Diamond Standard (EIP-2535) Explained: Part 2](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-2)                
+* [ The Diamond Standard (EIP-2535) Explained: Part 2](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-2)
 
 ### Diamond Storage
 
@@ -90,11 +90,12 @@
 * [Inspector Facet](https://github.com/bugout-dev/inspector-facet) - Inspection utility for EIP2535 Diamond proxies. Written in Python.
 * [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
 * [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds) - Mimimal template for Diamonds
-* [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry. 
+* [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry.
 * [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
 * [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
 * [diamond-diff](https://www.npmjs.com/package/diamond-diff) - Tool that helps retrieve the necessary `diamondCut` by checking against a Diamond model.
+* [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
 
 
 # Audits
@@ -143,7 +144,7 @@
 13. Diamond Setter
 14. Sherlock
 15. Premia Finance
-16. Nocturnal Finance 
+16. Nocturnal Finance
 17. scaffold-eth
 18. diamond-starter-kit
 19. scaffold-eth-diamond-standard
