@@ -91,6 +91,7 @@
 * [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
 * [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds) - Mimimal template for Diamonds
 * [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry.
+* [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry version of Diamond Pattern (EIP-2535) reference implementation.
 * [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
 * [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
@@ -193,3 +194,4 @@
 63. [withmantra.com](https://withmantra.com)
 64. [Nobility Token](https://nobilitytoken.com)
 65. [meTokens](https://meTokens.com)
+66. [Fyde Treasury Protocol](https://www.fyde.fi)
