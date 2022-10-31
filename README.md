@@ -196,3 +196,4 @@
 65. [meTokens](https://meTokens.com)
 66. [Fyde Treasury Protocol](https://www.fyde.fi)
 67. [VaporFi](https://vapornodes.finance/)
+68. MetaMask Grants DAO
