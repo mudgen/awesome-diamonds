@@ -101,7 +101,7 @@
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
 
 
-# Audits
+# Security Audits
 
 ### Omniscia
 
