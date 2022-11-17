@@ -50,6 +50,7 @@
 * [How Diamond Storage Works](https://dev.to/mudgen/how-diamond-storage-works-90e) - Explains diamond storage and shows an example.
 * [New Storage Layout For Proxy Contracts and Diamonds](https://medium.com/1milliondevs/new-storage-layout-for-proxy-contracts-and-diamonds-98d01d0eadb) - First written article that describes diamond storage.
 * [AppStorage Pattern for State Variables in Solidity](https://eip2535diamonds.substack.com/p/appstorage-pattern-for-state-variables?s=w) - Describes and shows AppStorage.
+* [Rules for Upgrading Diamond Storage](https://eip2535diamonds.substack.com/p/diamond-upgrades)
 * [Migrating the EIP-2535 Diamond Storage layout](https://medium.com/@0xFluffyBeard/migrating-the-eip-2535-diamond-storage-layout-cb28b9c47e71) - Shows Diamond Storage and how to migrate data to new Diamond Storage in upgrades.
 
 ### Diamond Upgrades
