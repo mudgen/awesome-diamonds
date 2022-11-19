@@ -201,3 +201,4 @@
 67. [VaporFi](https://vapornodes.finance/)
 68. MetaMask Grants DAO
 69. [zkSync](https://zksync.io/)
+70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
