@@ -58,6 +58,7 @@
 
 * [Diamond Upgrades](https://eip2535diamonds.substack.com/p/diamond-upgrades?s=w) - How to perform diamond upgrades.
 * [Example of Adding New State Variables in Diamond Upgrade](https://eip2535diamonds.substack.com/p/example-of-a-diamond-upgrade?s=w) - Shows how to add new state variables to a diamond.
+* [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
 
 ### Diamonds in Projects
 * [🌱 Beanstalk 🤝 EIP-2535 💎](https://bean.money/blog/beanstalk-eip-2535) - Lays out benefits of EIP-2535 with examples from their project.
