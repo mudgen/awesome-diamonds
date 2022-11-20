@@ -44,6 +44,7 @@
 * [EIP 2535: Diamond standard explained – Part 3: Understanding storage patterns in diamonds](https://bitsbyblocks.com/eip-2535-diamond-standard-explained-part-3-understanding-storage-patterns-in-diamonds/)
 * [The Diamond Standard (EIP-2535) Explained: Part 1](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-1)
 * [ The Diamond Standard (EIP-2535) Explained: Part 2](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-2)
+* [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
 
 ### Diamond Storage
 
