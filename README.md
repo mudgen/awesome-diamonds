@@ -206,3 +206,4 @@
 68. MetaMask Grants DAO
 69. [zkSync](https://zksync.io/)
 70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
+71. [Forward Protocol](https://forwardprotocol.io/)
