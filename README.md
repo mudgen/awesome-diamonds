@@ -181,7 +181,6 @@
 42. cryptopoopz.com
 43. Copium Wars
 44. Typenauts
-45. Boson Protocol
 46. connext.network
 47. [The Saudis](https://www.thesaudisnft.com/)
 48. [Spring Game](https://spring.game/)
