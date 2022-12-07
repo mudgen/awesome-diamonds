@@ -71,7 +71,10 @@
 * [Why Gotchivault is upgrading to the Diamond standard](https://medium.com/@bearded.eth/diamonds-are-a-proxys-best-friends-c302cca82203) - How to upgrade an existing proxy contract to EIP2535 Diamonds.
 * [Handling multiple tokens, with a modern solidity architecture via Diamonds & ERC1155](https://dev.to/nohehf/handling-multiple-tokens-with-a-modern-solidity-architecture-via-diamonds-erc1155-1h7e)
 * [Smart contract packages — upgradeability for normal people](https://medium.com/@tjvs/smart-contract-packages-upgradeability-for-normal-people-8646e817e196)
+
+#### Diamond Project Documentation
 * [Aavegotchi Smart Contract Documentation](https://docs.aavegotchi.com/)
+* [LIFI Overview](https://docs.li.fi/smart-contracts/overview)
 
 # Videos
 
