@@ -209,3 +209,4 @@
 69. [zkSync](https://zksync.io/)
 70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
 71. [Forward Protocol](https://forwardprotocol.io/)
+1. [Ubiquity Dollar](https://github.com/ubiquity/ubiquity-dollar)
