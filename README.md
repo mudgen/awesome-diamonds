@@ -75,6 +75,7 @@
 #### Diamond Project Documentation
 * [Aavegotchi Smart Contract Documentation](https://docs.aavegotchi.com/)
 * [LIFI Overview](https://docs.li.fi/smart-contracts/overview)
+* [Geo Web Documentation](https://docs.geoweb.network/developers/core-contracts)
 
 # Videos
 
@@ -210,3 +211,4 @@
 70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
 71. [Forward Protocol](https://forwardprotocol.io/)
 1. [Ubiquity Dollar](https://github.com/ubiquity/ubiquity-dollar)
+1. [Geo Web](https://www.geoweb.network/)
