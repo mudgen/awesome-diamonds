@@ -206,7 +206,7 @@
 65. [meTokens](https://meTokens.com)
 66. [Fyde Treasury Protocol](https://www.fyde.fi)
 67. [VaporFi](https://vapornodes.finance/)
-68. MetaMask Grants DAO
+68. [MetaMask Grants DAO](https://metamaskgrants.org/)
 69. [zkSync](https://zksync.io/)
 70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
 71. [Forward Protocol](https://forwardprotocol.io/)
