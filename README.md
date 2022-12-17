@@ -212,3 +212,4 @@
 71. [Forward Protocol](https://forwardprotocol.io/)
 1. [Ubiquity Dollar](https://github.com/ubiquity/ubiquity-dollar)
 1. [Geo Web](https://www.geoweb.network/)
+1. [Nexera ID](https://blog.allianceblock.io/nexera-nexera-id-deep-dive-ea58350686f3)
