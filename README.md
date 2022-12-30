@@ -92,6 +92,7 @@
 * [ERC721A-Upgradeable](https://github.com/chiru-labs/ERC721A-Upgradeable) - Gas efficient ERC721 implementation.
 * [ERC1155-DiamondStorage](https://github.com/rachit2501/ERC1155-Diamond) - ERC1155 Implementation
 * [diamond-hardhat](https://github.com/proggR/diamond-hardhat) - Extension that adds deeper Hardhat integrations for faster/more maintainable ERC2535 Diamond contract development.
+* [OpenZeppelin Diamonds](https://github.com/GeniusVentures/openzeppelin-contracts-diamond) - OpenZeppelin contracts transpiled to use Diamonds & Facets
 
 # Tools
 
@@ -108,6 +109,7 @@
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
 * [diamond-diff](https://www.npmjs.com/package/diamond-diff) - Tool that helps retrieve the necessary `diamondCut` by checking against a Diamond model.
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
+* [OpenZeppelin Transpiler for Diamonds](https://github.com/GeniusVentures/openzeppelin-transpiler) - Updated OpenZeppelin Transpiler supporting Diamond patter with significant speed improvements
 * [How to use TypeScript with EIP-2535: Diamonds](https://dev.to/erhant/how-to-use-typescript-with-eip-2535-diamonds-3gl6)
 
 # Security Audits
@@ -177,7 +179,7 @@
 34. hardhat-diamond-abi
 35. EnterDAO
 36. Gemcutter
-37. GNUS.AI
+37. [GNUS.AI](https://www.gnus.ai)
 38. Dark Forest
 39. Moonstream DAO
 40. Chain of Empires
