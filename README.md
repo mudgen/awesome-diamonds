@@ -45,6 +45,7 @@
 * [The Diamond Standard (EIP-2535) Explained: Part 1](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-1)
 * [ The Diamond Standard (EIP-2535) Explained: Part 2](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-2)
 * [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
+* [An Introduction to ERC2535 Diamonds Development And Why Solidity Devs Should Adopt It](https://proggr.hashnode.dev/ooo-shiny-an-introduction-to-erc2535-diamonds-development-and-why-solidity-devs-should-adopt-it)
 
 ### Diamond Storage
 
@@ -59,6 +60,7 @@
 * [Diamond Upgrades](https://eip2535diamonds.substack.com/p/diamond-upgrades?s=w) - How to perform diamond upgrades.
 * [Example of Adding New State Variables in Diamond Upgrade](https://eip2535diamonds.substack.com/p/example-of-a-diamond-upgrade?s=w) - Shows how to add new state variables to a diamond.
 * [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
+* [Upgradeable Smart Contracts and Initialization](https://medium.com/@gweiworld/upgradeable-smart-contracts-and-initialization-6374fd3df267) - Compares methods of initializing upgrades.
 
 ### Diamonds in Projects
 * [🌱 Beanstalk 🤝 EIP-2535 💎](https://bean.money/blog/beanstalk-eip-2535) - Lays out benefits of EIP-2535 with examples from their project.
@@ -69,7 +71,11 @@
 * [Why Gotchivault is upgrading to the Diamond standard](https://medium.com/@bearded.eth/diamonds-are-a-proxys-best-friends-c302cca82203) - How to upgrade an existing proxy contract to EIP2535 Diamonds.
 * [Handling multiple tokens, with a modern solidity architecture via Diamonds & ERC1155](https://dev.to/nohehf/handling-multiple-tokens-with-a-modern-solidity-architecture-via-diamonds-erc1155-1h7e)
 * [Smart contract packages — upgradeability for normal people](https://medium.com/@tjvs/smart-contract-packages-upgradeability-for-normal-people-8646e817e196)
+
+#### Diamond Project Documentation
 * [Aavegotchi Smart Contract Documentation](https://docs.aavegotchi.com/)
+* [LIFI Overview](https://docs.li.fi/smart-contracts/overview)
+* [Geo Web Documentation](https://docs.geoweb.network/developers/core-contracts)
 
 # Videos
 
@@ -104,7 +110,7 @@
 * [diamond-diff](https://www.npmjs.com/package/diamond-diff) - Tool that helps retrieve the necessary `diamondCut` by checking against a Diamond model.
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
 * [OpenZeppelin Transpiler for Diamonds](https://github.com/GeniusVentures/openzeppelin-transpiler) - Updated OpenZeppelin Transpiler supporting Diamond patter with significant speed improvements
-
+* [How to use TypeScript with EIP-2535: Diamonds](https://dev.to/erhant/how-to-use-typescript-with-eip-2535-diamonds-3gl6)
 
 # Security Audits
 
@@ -181,7 +187,6 @@
 42. cryptopoopz.com
 43. Copium Wars
 44. Typenauts
-45. Boson Protocol
 46. connext.network
 47. [The Saudis](https://www.thesaudisnft.com/)
 48. [Spring Game](https://spring.game/)
@@ -203,6 +208,11 @@
 65. [meTokens](https://meTokens.com)
 66. [Fyde Treasury Protocol](https://www.fyde.fi)
 67. [VaporFi](https://vapornodes.finance/)
-68. MetaMask Grants DAO
+68. [MetaMask Grants DAO](https://metamaskgrants.org/)
 69. [zkSync](https://zksync.io/)
 70. [Crypto Unicorns](https://www.cryptounicorns.fun/)
+71. [Forward Protocol](https://forwardprotocol.io/)
+1. [Ubiquity Dollar](https://github.com/ubiquity/ubiquity-dollar)
+1. [Geo Web](https://www.geoweb.network/)
+1. [Nexera ID](https://blog.allianceblock.io/nexera-nexera-id-deep-dive-ea58350686f3)
+1.  [CronosNode NFTs](https://cronosnode.com/)
