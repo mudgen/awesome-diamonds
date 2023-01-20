@@ -200,7 +200,7 @@
 56. [VOID.MONEY](https://void.money/)
 58. [Simple DeFi](https://www.simpledefi.io/)
 59. [CroSwap](https://www.croswap.com/)
-60. [RMRK](https://www.rmrk.app/)
+60. [Lightm](https://lightm.xyz)
 61. [PartyFinance](https://party.finance/)
 62. [1o1.art](https://1o1.art/)
 63. [withmantra.com](https://withmantra.com)
