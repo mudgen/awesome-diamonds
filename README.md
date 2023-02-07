@@ -217,3 +217,4 @@
 1. [Nexera ID](https://blog.allianceblock.io/nexera-nexera-id-deep-dive-ea58350686f3)
 1.  [CronosNode NFTs](https://cronosnode.com/)
 1. [Tombala Games](https://tombala.games/)
+1. [Perp88](https://medium.com/perp88/perp88-has-adopted-the-diamond-standard-eip-2535-fcc60f49ece1)
