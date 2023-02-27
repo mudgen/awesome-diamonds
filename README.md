@@ -220,3 +220,4 @@
 1. [Tombala Games](https://tombala.games/)
 1. [Perp88](https://medium.com/perp88/perp88-has-adopted-the-diamond-standard-eip-2535-fcc60f49ece1)
 1. [Helix2](https://ethresear.ch/t/helix2-name-link-service/14823)
+1. [Pendle](https://www.pendle.finance/)
