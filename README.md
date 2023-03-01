@@ -186,7 +186,7 @@
 40. Chain of Empires
 41. LI.FI
 42. cryptopoopz.com
-43. Copium Wars
+43. [Copium Wars](https://copiumwars.xyz/)
 44. Typenauts
 46. connext.network
 47. [The Saudis](https://www.thesaudisnft.com/)
