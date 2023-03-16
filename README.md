@@ -46,6 +46,7 @@
 * [ The Diamond Standard (EIP-2535) Explained: Part 2](https://www.quicknode.com/guides/smart-contract-development/the-diamond-standard-eip-2535-explained-part-2)
 * [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
 * [An Introduction to ERC2535 Diamonds Development And Why Solidity Devs Should Adopt It](https://proggr.hashnode.dev/ooo-shiny-an-introduction-to-erc2535-diamonds-development-and-why-solidity-devs-should-adopt-it)
+* [Transforming web3 through a Diamond Management System](https://medium.com/@alexeluca.spataru/transforming-web3-through-a-diamond-management-system-d2efa560ea7f)
 
 ### Diamond Storage
 
