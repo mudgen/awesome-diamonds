@@ -223,3 +223,4 @@
 1. [Helix2](https://ethresear.ch/t/helix2-name-link-service/14823)
 1. [Pendle](https://www.pendle.finance/)
 1. [Worker Node Toolkit](https://medium.com/energy-web-insights/proof-of-good-work-energy-web-releases-worker-node-toolkit-to-the-public-e67a9d8a2973)
+1. [NiftyKit](https://niftykit.com/)
