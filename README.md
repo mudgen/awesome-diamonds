@@ -49,6 +49,7 @@
 * [An Introduction to ERC2535 Diamonds Development And Why Solidity Devs Should Adopt It](https://proggr.hashnode.dev/ooo-shiny-an-introduction-to-erc2535-diamonds-development-and-why-solidity-devs-should-adopt-it)
 * [Transforming web3 through a Diamond Management System](https://medium.com/@alexeluca.spataru/transforming-web3-through-a-diamond-management-system-d2efa560ea7f)
 [Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard](https://medium.com/@alexeluca.spataru/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc)
+[A guide to building and deploying upgradeable contracts on CELO with Diamond standard](https://docs.celo.org/blog/tutorials/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard)
 
 ### Diamond Storage
 
