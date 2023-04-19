@@ -35,6 +35,7 @@
 
 * [Introduction to EIP-2535 Diamonds](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard?s=w) - Explains the problem diamonds were initially developed to solve, how they work, how to organize them, and how to deploy and upgrade them.
 * [Compliance with EIP-2535 Diamonds Standard](https://eip2535diamonds.substack.com/p/compliance-with-eip-2535-diamonds) - How implementations can comply with the standard.
+* [EIP-2535: A Technical Overview of the Diamond Smart Contract Standard](https://hackmd.io/@Jesserc/HkZXGpC6j)
 * [EIP-2535: A standard for organizing and upgrading a modular smart contract system.](https://soliditydeveloper.com/eip-2535) - Describes what diamonds are, how they work and how to use them.
 * [Diamond Loupe Functions](https://dev.to/mudgen/why-loupe-functions-for-diamonds-1kc3) - Explains the need and use of loupe functions (diamond introspecting functions).
 * [How to Share Functions Between Facets of a Diamond](https://eip2535diamonds.substack.com/p/how-to-share-functions-between-facets?s=w) - Shows ways to share functionality between facets of a diamond.
@@ -48,8 +49,8 @@
 * [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
 * [An Introduction to ERC2535 Diamonds Development And Why Solidity Devs Should Adopt It](https://proggr.hashnode.dev/ooo-shiny-an-introduction-to-erc2535-diamonds-development-and-why-solidity-devs-should-adopt-it)
 * [Transforming web3 through a Diamond Management System](https://medium.com/@alexeluca.spataru/transforming-web3-through-a-diamond-management-system-d2efa560ea7f)
-[Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard](https://medium.com/@alexeluca.spataru/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc)
-[A guide to building and deploying upgradeable contracts on CELO with Diamond standard](https://docs.celo.org/blog/tutorials/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard)
+* [Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard](https://medium.com/@alexeluca.spataru/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc)
+* [A guide to building and deploying upgradeable contracts on CELO with Diamond standard](https://docs.celo.org/blog/tutorials/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard)
 
 ### Diamond Storage
 
