@@ -97,7 +97,6 @@
 * [ERC20 Facet](https://github.com/danfinlay/erc20-diamond-facet) - A facet that adds ERC-20 token functionality to the host contract.
 * [ERC721A-Upgradeable](https://github.com/chiru-labs/ERC721A-Upgradeable) - Gas efficient ERC721 implementation.
 * [ERC1155-DiamondStorage](https://github.com/rachit2501/ERC1155-Diamond) - ERC1155 Implementation
-* [diamond-hardhat](https://github.com/proggR/diamond-hardhat) - Extension that adds deeper Hardhat integrations for faster/more maintainable ERC2535 Diamond contract development.
 * [OpenZeppelin Diamonds](https://github.com/GeniusVentures/openzeppelin-contracts-diamond) - OpenZeppelin contracts transpiled to use Diamonds & Facets
 
 # Tools
@@ -108,6 +107,7 @@
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
 ### Hardhat
 * [diamond-2-hardhat-v6](https://github.com/jhubbardsf/diamond-2-hardhat-v6) - diamond-2-hardhat using TypeScript and Hardhat with Ethers v6.
+* [diamond-hardhat](https://github.com/proggR/diamond-hardhat) - Extension that adds deeper Hardhat integrations for faster/more maintainable ERC2535 Diamond contract development.
 * [hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 * [hardhat-deploy](https://github.com/wighawag/hardhat-deploy#builtin-in-support-for-diamonds-eip2535) - Hardhat plugin that supports deploying, upgrading and managing diamonds.
 * [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
