@@ -107,6 +107,7 @@
 * [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
 ### Hardhat
+* [diamond-2-hardhat-v6](https://github.com/jhubbardsf/diamond-2-hardhat-v6) - diamond-2-hardhat using TypeScript and Hardhat with Ethers v6.
 * [hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 * [hardhat-deploy](https://github.com/wighawag/hardhat-deploy#builtin-in-support-for-diamonds-eip2535) - Hardhat plugin that supports deploying, upgrading and managing diamonds.
 * [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
