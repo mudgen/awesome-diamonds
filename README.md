@@ -51,6 +51,7 @@
 * [Transforming web3 through a Diamond Management System](https://medium.com/@alexeluca.spataru/transforming-web3-through-a-diamond-management-system-d2efa560ea7f)
 * [Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard](https://medium.com/@alexeluca.spataru/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc)
 * [A guide to building and deploying upgradeable contracts on CELO with Diamond standard](https://docs.celo.org/blog/tutorials/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard)
+* [How to use TypeScript with EIP-2535: Diamonds](https://dev.to/erhant/how-to-use-typescript-with-eip-2535-diamonds-3gl6)
 
 ### Diamond Storage
 
@@ -100,24 +101,32 @@
 * [OpenZeppelin Diamonds](https://github.com/GeniusVentures/openzeppelin-contracts-diamond) - OpenZeppelin contracts transpiled to use Diamonds & Facets
 
 # Tools
-
+### User Interfaces  
 * [Louper - The Ethereum Diamond Inspector](https://louper.dev/) - User interface for diamonds.
 * [Governance Diamonds](https://www.dmath.is/governance-diamonds/) - User interface for exploring diamonds.
+* [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
+* [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
+### Hardhat
 * [hardhat-diamond-abi](https://github.com/projectsophon/hardhat-diamond-abi) - Hardhat plugin to combine multiple ABIs into a Diamond ABI artifact.
 * [hardhat-deploy](https://github.com/wighawag/hardhat-deploy#builtin-in-support-for-diamonds-eip2535) - Hardhat plugin that supports deploying, upgrading and managing diamonds.
-* [Inspector Facet](https://github.com/bugout-dev/inspector-facet) - Inspection utility for EIP2535 Diamond proxies. Written in Python.
 * [Zem](https://github.com/anders-torbjornsen/zem) - Hardhat deployment management system that supports deploying, upgrading and managing diamonds.
+### Foundry
 * [diamond-foundry](https://github.com/Forgenie/diamond-foundry) - A modern framework for creating EIP2535 Diamonds.
 * [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds) - Mimimal template for Diamonds.
 * [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry.
 * [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry version of Diamond Pattern (EIP-2535) reference implementation.
+### Package Management & Facet Registries
 * [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
-* [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
-* [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
-* [diamond-diff](https://www.npmjs.com/package/diamond-diff) - Tool that helps retrieve the necessary `diamondCut` by checking against a Diamond model.
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
+
+### Python
+* [Inspector Facet](https://github.com/bugout-dev/inspector-facet) - Inspection utility for EIP2535 Diamond proxies. Written in Python.
+
+### Command line tools
+* [diamond-diff](https://www.npmjs.com/package/diamond-diff) - Tool that helps retrieve the necessary `diamondCut` by checking against a Diamond model.
+
+### Transpilers
 * [OpenZeppelin Transpiler for Diamonds](https://github.com/GeniusVentures/openzeppelin-transpiler) - Updated OpenZeppelin Transpiler supporting Diamond patter with significant speed improvements
-* [How to use TypeScript with EIP-2535: Diamonds](https://dev.to/erhant/how-to-use-typescript-with-eip-2535-diamonds-3gl6)
 
 # Security Audits
 
