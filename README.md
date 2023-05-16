@@ -102,6 +102,7 @@
 # Tools
 ### User Interfaces  
 * [Louper - The Ethereum Diamond Inspector](https://louper.dev/) - User interface for diamonds.
+* [DiamondScan](https://diamondscan.xyz/) - User inteface for diamonds.
 * [Governance Diamonds](https://www.dmath.is/governance-diamonds/) - User interface for exploring diamonds.
 * [diamond-etherscan](https://github.com/zdenham/diamond-etherscan) - Make your EIP-2535 Diamond etherscan compatible.
 * [Diamantair](https://diamantaire.xyz/) -  Deploying new diamonds from a template.
