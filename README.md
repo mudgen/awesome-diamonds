@@ -131,6 +131,7 @@
 * [OpenZeppelin Transpiler for Diamonds](https://github.com/GeniusVentures/openzeppelin-transpiler) - Updated OpenZeppelin Transpiler supporting Diamond patter with significant speed improvements
 
 # Security Audits
+> Note that some changes have been made to the [Diamond reference implementations](https://github.com/mudgen/diamond) since the following audits have been done.
 
 ### Omniscia
 
