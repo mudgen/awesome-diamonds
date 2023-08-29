@@ -247,5 +247,5 @@
 1. [Autify Network](https://autifynetwork.com/)
 1. [Keepers](https://keepers.com)
 1. [MetaBase](https://metabase.cc)
-2. [props])(https://www.props.app/)
+2. [props](https://www.props.app/)
 3. [VL Relics](https://relics.vitriol.sh)
