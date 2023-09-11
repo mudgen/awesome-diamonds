@@ -250,3 +250,4 @@
 2. [props](https://www.props.app/)
 3. [VL Relics](https://relics.vitriol.sh)
 4. [ApeFathers NFT](https://www.apefathersnft.com/)
+5. [ssv.network](https://ssv.network)
