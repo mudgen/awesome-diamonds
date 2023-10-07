@@ -252,3 +252,4 @@
 4. [ApeFathers NFT](https://www.apefathersnft.com/)
 5. [ssv.network](https://ssv.network)
 6. [Pinjam](https://pinjamlabs.com/)
+7. [Venus Protocol](https://venus.io/)
