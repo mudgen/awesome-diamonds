@@ -254,3 +254,4 @@
 6. [Pinjam](https://pinjamlabs.com/)
 7. [Venus Protocol](https://venus.io/)
 8. [OmniKingdoms](https://www.omnikingdoms.io/)
+9. [ZKasino](https://docs.zkasino.io/)
