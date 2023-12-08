@@ -255,3 +255,4 @@
 7. [Venus Protocol](https://venus.io/)
 8. [OmniKingdoms](https://www.omnikingdoms.io/)
 9. [ZKasino](https://docs.zkasino.io/)
+10. [FrenPet](https://docs.frenpet.xyz/)
