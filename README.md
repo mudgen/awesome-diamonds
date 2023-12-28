@@ -52,6 +52,7 @@
 * [Achieving Universal and Reusable Smart Contracts via ERC2535 Diamond Proxy Standard](https://medium.com/@alexeluca.spataru/achieving-universal-and-reusable-smart-contracts-via-erc2535-diamond-proxy-standard-ba4c9f5ac5bc)
 * [A guide to building and deploying upgradeable contracts on CELO with Diamond standard](https://docs.celo.org/blog/tutorials/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard)
 * [How to use TypeScript with EIP-2535: Diamonds](https://dev.to/erhant/how-to-use-typescript-with-eip-2535-diamonds-3gl6)
+* [Multiple NFT and ERC-20 tokens backed by a single diamond](https://hiddentao.com/archives/2023/08/08/building-multiple-nft-and-erc-20-tokens-backed-by-a-single-upgradeable-smart-contract)
 
 ### Diamond Storage
 
