@@ -62,10 +62,11 @@
 * [Rules for Upgrading Diamond Storage](https://eip2535diamonds.substack.com/p/diamond-upgrades) - Best documentation about upgrading Diamond Storage.
 * [Migrating the EIP-2535 Diamond Storage layout](https://medium.com/@0xFluffyBeard/migrating-the-eip-2535-diamond-storage-layout-cb28b9c47e71) - Shows Diamond Storage and how to migrate data to new Diamond Storage in upgrades.
 
-### Diamond Upgrades
+### Diamond Deployment and Upgrades
 
 * [Diamond Upgrades](https://eip2535diamonds.substack.com/p/diamond-upgrades?s=w) - How to perform diamond upgrades.
 * [Example of Adding New State Variables in Diamond Upgrade](https://eip2535diamonds.substack.com/p/example-of-a-diamond-upgrade?s=w) - Shows how to add new state variables to a diamond.
+* [Initializing an EIP-2535 Diamond for deployment and upgrades](https://eip2535diamonds.substack.com/p/initializing-an-eip-2535-diamond)
 * [A better way to initialize upgradeable contracts](https://medium.com/@gweiworld/a-new-better-way-to-initialize-upgradeable-contracts-39080d72f066) - Shows how to execute initialization functions during diamond upgrades.
 * [Upgradeable Smart Contracts and Initialization](https://medium.com/@gweiworld/upgradeable-smart-contracts-and-initialization-6374fd3df267) - Compares methods of initializing upgrades.
 
