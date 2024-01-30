@@ -258,3 +258,5 @@
 8. [OmniKingdoms](https://www.omnikingdoms.io/)
 9. [ZKasino](https://docs.zkasino.io/)
 10. [FrenPet](https://docs.frenpet.xyz/)
+11. [Citizen Capital](https://citizencapital.fund/)
+12. [basedVC](https://basedvc.fund/)
