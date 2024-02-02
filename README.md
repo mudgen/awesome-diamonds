@@ -260,3 +260,4 @@
 10. [FrenPet](https://docs.frenpet.xyz/)
 11. [Citizen Capital](https://citizencapital.fund/)
 12. [basedVC](https://basedvc.fund/)
+13. [Rico Credit System ](https://bank.dev/)
