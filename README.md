@@ -262,3 +262,4 @@
 12. [basedVC](https://basedvc.fund/)
 13. [Rico Credit System ](https://bank.dev/)
 14. [GEMPAD](https://gempad.app)
+15. [Kresko Protocol](www.kresko.fi)
