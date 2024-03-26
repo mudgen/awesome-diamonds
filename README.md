@@ -269,3 +269,4 @@
 1. [Trust Wallet](https://trustwallet.com)
 2. [KingPinOnBase](https://kingpinonbase.com/)
 3. [Parallel](https://parallel.fi)
+4. [JungleArt](https://jungleart.ai/)
