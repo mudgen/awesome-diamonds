@@ -120,7 +120,8 @@
 * [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry.
 * [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry version of Diamond Pattern (EIP-2535) reference implementation.
 ### Diamond Command Line Tools
-* [gemforge](https://github.com/gemstation/gemforge) - Command-line tool for building, deploying and upgrading Diamond Standard contracts on EVM chains. 
+* [gemforge](https://github.com/gemstation/gemforge) - Command-line tool for building, deploying and upgrading Diamond Standard contracts on EVM chains.
+* [louper-cli](https://github.com/mark3labs/louper-cli) - Command-line tool for Louper.dev
 ### Package Management & Facet Registries
 * [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
