@@ -271,3 +271,4 @@
 3. [Parallel](https://parallel.fi)
 4. [JungleArt](https://jungleart.ai/)
 5. [Owl Protocol](https://docs-api.owlprotocol.xyz/docs/introduction)
+6. [Vaultus Finance](https://vaultusfinance.io/)
