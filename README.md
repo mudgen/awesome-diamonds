@@ -273,3 +273,4 @@
 5. [Owl Protocol](https://docs-api.owlprotocol.xyz/docs/introduction)
 6. [Vaultus Finance](https://vaultusfinance.io/)
 7. [zkLink](https://docs.zklink.io/)
+8. [OctDeFi](https://octodefi.com/)
