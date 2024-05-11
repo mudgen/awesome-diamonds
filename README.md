@@ -274,3 +274,4 @@
 6. [Vaultus Finance](https://vaultusfinance.io/)
 7. [zkLink](https://docs.zklink.io/)
 8. [OctoDeFi](https://octodefi.com/)
+9. [RAIRprotocol](https://rairprotocol.org/)
