@@ -275,3 +275,4 @@
 7. [zkLink](https://docs.zklink.io/)
 8. [OctoDeFi](https://octodefi.com/)
 9. [RAIRprotocol](https://rairprotocol.org/)
+10. [kewl](https://www.kewl.exchange/)
