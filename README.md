@@ -276,3 +276,4 @@
 8. [OctoDeFi](https://octodefi.com/)
 9. [RAIRprotocol](https://rairprotocol.org/)
 10. [kewl](https://www.kewl.exchange/)
+11. [Mande Network](https://www.mande.network/)
