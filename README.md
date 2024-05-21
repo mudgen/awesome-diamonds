@@ -277,3 +277,4 @@
 9. [RAIRprotocol](https://rairprotocol.org/)
 10. [kewl](https://www.kewl.exchange/)
 11. [Mande Network](https://www.mande.network/)
+12. [FeverTokens](https://www.fevertokens.io)
