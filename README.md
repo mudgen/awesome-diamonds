@@ -87,6 +87,7 @@
 
 # Videos
 
+* [Full course on Diamond Proxy Pattern with code walkthrough](https://youtu.be/e6WCbOyK7FA?si=JuuYOEEfuGIjHjTj)
 * [Ethereum Diamonds - EIP-2535 Multi Facet Proxy](https://youtu.be/yKLDBsYPyE8)
 * [How to Organize a Diamond with Facets](https://youtu.be/qHMdqHJMXww)
 * [Create Diamond Contracts In Your Browser Using Remix And Louper](https://youtu.be/8p4NhC9sLDA)
