@@ -280,3 +280,4 @@
 10. [kewl](https://www.kewl.exchange/)
 11. [Mande Network](https://www.mande.network/)
 12. [FeverTokens](https://www.fevertokens.io)
+13. [Pantos](https://pantos.io)
