@@ -281,3 +281,4 @@
 11. [Mande Network](https://www.mande.network/)
 12. [FeverTokens](https://www.fevertokens.io)
 13. [Pantos](https://pantos.io)
+14. [Amplified](https://amplified.fi/)
