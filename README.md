@@ -282,3 +282,4 @@
 12. [FeverTokens](https://www.fevertokens.io)
 13. [Pantos](https://pantos.io)
 14. [Amplified](https://amplified.fi/)
+15. [RangoExchange](https://rango.exchange/)
