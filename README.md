@@ -283,3 +283,4 @@
 13. [Pantos](https://pantos.io)
 14. [Amplified](https://amplified.fi/)
 15. [RangoExchange](https://rango.exchange/)
+16. [Flare Networks](https://flare.network)
