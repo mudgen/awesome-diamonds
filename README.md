@@ -285,3 +285,5 @@
 15. [RangoExchange](https://rango.exchange/)
 16. [Flare Networks](https://flare.network)
 17. [BoomBots](https://www.boombots.xyz)
+18. [River Protocol](https://www.river.build/)
+19. [Towns](https://www.towns.com/)
