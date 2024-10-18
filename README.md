@@ -287,3 +287,4 @@
 17. [BoomBots](https://www.boombots.xyz)
 18. [River Protocol](https://www.river.build/)
 19. [Towns](https://www.towns.com/)
+20. [https://splatterparty.xyz](Splatter Party)
