@@ -121,6 +121,7 @@
 * [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry.
 * [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry version of Diamond Pattern (EIP-2535) reference implementation.
 * [Foundry template for diamond-3](https://github.com/alexbabits/diamond-3-foundry)
+* [diamond-boilerplate](https://github.com/JhChoy/diamond-boilerplate) - A Foundry boilerplate code using Diamond and CreateX
 ### Diamond Command Line Tools
 * [gemforge](https://github.com/gemstation/gemforge) - Command-line tool for building, deploying and upgrading Diamond Standard contracts on EVM chains.
 * [louper-cli](https://github.com/mark3labs/louper-cli) - Command-line tool for Louper.dev
@@ -288,3 +289,4 @@
 18. [River Protocol](https://www.river.build/)
 19. [Towns](https://www.towns.com/)
 20. [Splatter Party](https://splatterparty.xyz)
+21. [Clober Futures](https://futures.clober.io)
