@@ -288,3 +288,4 @@
 18. [River Protocol](https://www.river.build/)
 19. [Towns](https://www.towns.com/)
 20. [Splatter Party](https://splatterparty.xyz)
+21. [CapSign](https://capsign.com)
