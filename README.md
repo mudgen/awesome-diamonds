@@ -119,6 +119,7 @@
 * [diamond-foundry](https://github.com/Forgenie/diamond-foundry) - A modern framework for creating EIP2535 Diamonds.
 * [Foundry-Hardhat-Diamonds](https://github.com/Timidan/Foundry-Hardhat-Diamonds) - Mimimal template for Diamonds.
 * [foundry-diamond-deploy](https://github.com/xenoliss/foundry-diamond-deploy) - Minimal example of a Diamond deployment script using foundry.
+* [foundry-diamond-easy-deploy](https://github.com/BahadorGh/foundry-diamond-easy-deploy) - A minimal, production-friendly EIP-2535 Diamond implementation using Foundry, with a focus on frictionless facet deployment via selector auto-discovery, and fully foundry.
 * [Diamond-Foundry](https://github.com/FydeTreasury/Diamond-Foundry) - Foundry version of Diamond Pattern (EIP-2535) reference implementation.
 * [Foundry template for diamond-3](https://github.com/alexbabits/diamond-3-foundry)
 * [diamond-boilerplate](https://github.com/JhChoy/diamond-boilerplate) - A Foundry boilerplate code using Diamond and CreateX
@@ -290,3 +291,4 @@
 19. [Towns](https://www.towns.com/)
 20. [Splatter Party](https://splatterparty.xyz)
 21. [Clober Futures](https://futures.clober.io)
+22. [CapSign](https://capsign.com)
