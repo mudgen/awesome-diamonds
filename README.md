@@ -97,6 +97,7 @@
 * [ERC721A-Upgradeable](https://github.com/chiru-labs/ERC721A-Upgradeable) - Gas efficient ERC721 implementation.
 * [ERC1155-DiamondStorage](https://github.com/rachit2501/ERC1155-Diamond) - ERC1155 Implementation
 * [OpenZeppelin Diamonds](https://github.com/GeniusVentures/openzeppelin-contracts-diamond) - OpenZeppelin contracts transpiled to use Diamonds & Facets
+* [Diamond Guard](https://github.com/0x76agabond/diamond-guard) - A Gnosis Safe–compatible Guard implemented with the Diamond Standard.
 
 # Tools
 ### User Interfaces  
