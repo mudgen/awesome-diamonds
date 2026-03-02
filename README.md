@@ -92,7 +92,7 @@
 
 
 # Libraries
-* [Compose](https://compose.diamonds/)
+* [Compose](https://compose.diamonds/) - A smart contract library for diamond-based systems.
 * [Diamond Scaffold](https://github.com/collinsadi/diamonds) - An NPM package to help in scaffolding Diamond Smart Contracts.
 * [SolidState Solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first Solidity smart contract development library that supports diamonds.
 * [ERC20 Facet](https://github.com/danfinlay/erc20-diamond-facet) - A facet that adds ERC-20 token functionality to the host contract.
