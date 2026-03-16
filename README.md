@@ -127,7 +127,7 @@
 * [gemforge](https://github.com/gemstation/gemforge) - Command-line tool for building, deploying and upgrading Diamond Standard contracts on EVM chains.
 * [louper-cli](https://github.com/mark3labs/louper-cli) - Command-line tool for Louper.dev
 ### Package Management & Facet Registries
-* [0xpm](https://0xpm.app/) - Diamond-based smart contract package manager.
+* [0xpm](https://github.com/tjvsx/0xpm) - Diamond-based smart contract package manager.
 * [Ethereum Package Manager](https://epm.wtf) - GUI to deploy and upgrade Diamond proxies and facets. Granular facet control with ability to toggle facet functions on/off.
 
 ### Python
